@@ -206,7 +206,7 @@ REDIS_PORT = 6379
 5.数据分析页
 ![1789137502989](image/README/1789137502989.png)
 6.AI旅游推荐助手
-![1789137518071](image/README/1789137518071.png)
+(https://github.com/onetree1314/python-tourism-data-visual-recommend-system/image/README/1789137518071.png)
 7.智能推荐页
 ![1789137530840](image/README/1789137530840.png)
 8.景点的排行榜分布图
